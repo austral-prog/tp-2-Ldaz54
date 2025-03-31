@@ -9,4 +9,3 @@ def ada():
     upper_name = full_name.upper()
     print(upper_name)
     print(f"\t{lower_name}")
-ada()
